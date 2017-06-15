@@ -1,0 +1,12 @@
+E:\VSRepository\NoBuoysMod\NoBuoysMod\bin\Debug\Assembly-CSharp.dll
+E:\VSRepository\NoBuoysMod\NoBuoysMod\bin\Debug\ColossalManaged.dll
+E:\VSRepository\NoBuoysMod\NoBuoysMod\bin\Debug\ICities.dll
+E:\VSRepository\NoBuoysMod\NoBuoysMod\bin\Debug\UnityEngine.dll
+E:\VSRepository\NoBuoysMod\NoBuoysMod\bin\Debug\PopsApiWrapper.dll
+E:\VSRepository\NoBuoysMod\NoBuoysMod\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\VSRepository\NoBuoysMod\NoBuoysMod\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\VSRepository\NoBuoysMod\NoBuoysMod\obj\Debug\NoBuoysMod.csprojResolveAssemblyReference.cache
+E:\VSRepository\NoBuoysMod\NoBuoysMod\bin\Debug\NoBouysMod.dll
+E:\VSRepository\NoBuoysMod\NoBuoysMod\bin\Debug\NoBouysMod.pdb
+E:\VSRepository\NoBuoysMod\NoBuoysMod\obj\Debug\NoBouysMod.dll
+E:\VSRepository\NoBuoysMod\NoBuoysMod\obj\Debug\NoBouysMod.pdb
