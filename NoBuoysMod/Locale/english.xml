@@ -2,6 +2,11 @@
 <Language UniqueName="en" ReadableName="English" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Translations>
     <Translation ID="NBM_DESCRIPTION" String="Removes bouys from ferry lines." />
+    <!-- OPTIONS PANEL-->
+    <Translation ID="NBM_REMOVE_BUOYS" String="Removes bouys by default." />
+    <Translation ID="NBM_TOGGLE_KEY" String="Toggle buoys key." />
+    <Translation ID="NBM_PRESS_KEY" String="Press any key" />
+    <Translation ID="NBM_REMOVE_BUOYS_TOOLTIP" String="Let you remove buoys from ferry paths." />
     
   </Translations>
 </Language>

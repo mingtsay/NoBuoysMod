@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language UniqueName="pl" ReadableName="Polish" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Translations>
-    <Translation ID="NBM_DESCRIPTION" String="Removes bouys from ferry lines_pl." />
+    <Translation ID="NBM_DESCRIPTION" String="Usuwa bojki z obrysu linii promowych." />
+    <!-- OPTIONS PANEL-->
+    <Translation ID="NBM_REMOVE_BUOYS" String="Domyślnie usuń bojki." />
+    <Translation ID="NBM_TOGGLE_KEY" String="Przełącz widoczność bojek." />
+    <Translation ID="NBM_PRESS_KEY" String="Wciśnij klawisz" />
+    <Translation ID="NBM_REMOVE_BUOYS_TOOLTIP" String="Pozwala usunąć bojki z obrysu linii promowych." />
     
   </Translations>
 </Language>
