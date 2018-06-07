@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language UniqueName="zh-Hant-TW" ReadableName="中文（台灣）" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translations>
+    <Translation ID="NBM_DESCRIPTION" String="移除渡輪路線的浮標" />
+    <!-- OPTIONS PANEL-->
+    <Translation ID="NBM_REMOVE_BUOYS" String="預設啟用移除浮標" />
+    <Translation ID="NBM_TOGGLE_KEY" String="浮標切換鍵" />
+    <Translation ID="NBM_PRESS_KEY" String="按下任意鍵" />
+    <Translation ID="NBM_REMOVE_BUOYS_TOOLTIP" String="供您移除渡輪路線中的浮標" />
+
+  </Translations>
+</Language>
